@@ -1,4 +1,4 @@
-baseURL: https://kostis-portfolio.netlify.app/
+baseURL: https://shuyan-portfolio.netlify.app
 languageCode: en-us
 title: Portfolio website for Shuyan Zou
 theme: forty
@@ -82,8 +82,8 @@ params:
     enable: yes
     showcase:
       - image: lbs.jpg
-        subtitle: I love sunset
-        title: About me
+        subtitle: Risk-return of djia stocks
+        title: DJIA Risk/Return
         url: blogs/risk_return
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
