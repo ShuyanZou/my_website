@@ -81,14 +81,14 @@ params:
   tiles:
     enable: yes
     showcase:
+      - image: pic01.jpg
+        subtitle: I loveSunsets
+        title: About Me
+        url: blogs/aliquam
       - image: lbs.jpg
-        subtitle: Risk-return of djia stocks
+        subtitle: sRisk-return of djia stocks
         title: DJIA Risk/Return
         url: blogs/risk_return
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
@@ -116,3 +116,4 @@ params:
       amet pharetra et feugiat tempus."
     title: Massa libero
     url: blogs
+    
