@@ -29,7 +29,7 @@ params:
         title: Phone
   custom_css: []
   custom_js: []
-  description: Your description
+  description: Hi I'm Shuyan Zou, an LBS student
   error404:
     heading: Page couldn't be found
     text: Please visit [this page](/)
@@ -42,15 +42,9 @@ params:
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
-      - icon: fa-facebook
-        label: Facebook
-        url: https://www.facebook.com
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/noisebutyourvoice/
       - icon: fa-github
         label: GitHub
         url: https://github.com/ShuyanZou
@@ -82,38 +76,33 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: I loveSunsets
-        title: About Me
+        subtitle: Analytics
+        title: My Pre-programme Assignment
         url: blogs/aliquam
       - image: lbs.jpg
-        subtitle: sRisk-return of djia stocks
+        subtitle: Risk-return of Djia Stocks
         title: DJIA Risk/Return
         url: blogs/risk_return
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+        subtitle: Arts
+        title: Architecture
         url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
+      - image: pic02.jpg
+        subtitle: Traveling
+        title: Tempus
+        url: blogs/tempus
       - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
+        subtitle: Sports
+        title: Hiking
         url: blogs/ipsum
       - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
+        subtitle: It's somewhere we can meet.
+        title: Serendipity
         url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "Hi it's my websites. You can get to know about me through the following list."
+    title: Know about me
     url: blogs
     
