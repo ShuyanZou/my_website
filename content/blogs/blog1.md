@@ -8,6 +8,6 @@ draft: false
 image: pic10.jpg
 keywords: ""
 slug: ipsum
-title: Ipsum
+title: Travel to the wildest world
 ---
 

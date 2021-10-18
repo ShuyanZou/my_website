@@ -8,9 +8,8 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Shuyan Zou
+      WELCOME HERE.
+    title: Hi, I'm Shuyan Zou, an MFA2022 student
   blog: {}
   contact:
     address:
@@ -75,7 +74,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: pic06.jpg
         subtitle: Analytics
         title: My Pre-programme Assignment
         url: blogs/aliquam
@@ -83,7 +82,7 @@ params:
         subtitle: Risk-return of Djia Stocks
         title: DJIA Risk/Return
         url: blogs/risk_return
-      - image: pic03.jpg
+      - image: pic04.jpg
         subtitle: Arts
         title: Architecture
         url: blogs/magna
@@ -95,14 +94,14 @@ params:
         subtitle: Sports
         title: Hiking
         url: blogs/ipsum
-      - image: pic06.jpg
+      - image: pic01.jpg
         subtitle: It's somewhere we can meet.
         title: Serendipity
         url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Hi it's my websites. You can get to know about me through the following list."
+    subtitle: "Hi here is my website. You can get to know about me through the following list."
     title: Know about me
     url: blogs
     
