@@ -74,7 +74,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic06.jpg
+      - image: data.png
         subtitle: Analytics
         title: My Pre-programme Assignment
         url: blogs/aliquam
@@ -82,22 +82,22 @@ params:
         subtitle: Risk-return of Djia Stocks
         title: DJIA Risk/Return
         url: blogs/risk_return
-      - image: pic04.jpg
-        subtitle: Arts
-        title: Architecture
+      - image: city.jpg
+        subtitle: Paris
+        title: City Memory
         url: blogs/magna
-      - image: pic02.jpg
-        subtitle: Traveling
-        title: Tempus
+      - image: travel.jpg
+        subtitle: Sunset
+        title: Traveling
         url: blogs/tempus
-      - image: pic05.jpg
-        subtitle: Sports
-        title: Hiking
+      - image: adventure.jpg
+        subtitle: Hiking
+        title: Adventure
         url: blogs/ipsum
-      - image: pic01.jpg
-        subtitle: It's somewhere we can meet.
+      - image: meetyou.jpg
+        subtitle: Somewhere we met.
         title: Serendipity
-        url: blogs/ipsum
+        url: blogs/mylove
   two:
     buttonText: Get Started
     enable: yes
